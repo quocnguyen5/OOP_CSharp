@@ -1,0 +1,15 @@
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.csproj.AssemblyReference.cache
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.AssemblyInfoInputs.cache
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.AssemblyInfo.cs
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.csproj.CoreCompileInputs.cache
+/Users/quocnguyen/Workspace/C#/Bai2_C3/bin/Debug/net6.0/Bai2_C3
+/Users/quocnguyen/Workspace/C#/Bai2_C3/bin/Debug/net6.0/Bai2_C3.deps.json
+/Users/quocnguyen/Workspace/C#/Bai2_C3/bin/Debug/net6.0/Bai2_C3.runtimeconfig.json
+/Users/quocnguyen/Workspace/C#/Bai2_C3/bin/Debug/net6.0/Bai2_C3.dll
+/Users/quocnguyen/Workspace/C#/Bai2_C3/bin/Debug/net6.0/Bai2_C3.pdb
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.dll
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/refint/Bai2_C3.dll
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.pdb
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/Bai2_C3.genruntimeconfig.cache
+/Users/quocnguyen/Workspace/C#/Bai2_C3/obj/Debug/net6.0/ref/Bai2_C3.dll

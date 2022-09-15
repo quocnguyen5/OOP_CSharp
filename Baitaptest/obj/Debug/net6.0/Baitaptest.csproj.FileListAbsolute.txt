@@ -1,0 +1,15 @@
+/Users/quocnguyen/Workspace/C#/Baitaptest/bin/Debug/net6.0/Baitaptest
+/Users/quocnguyen/Workspace/C#/Baitaptest/bin/Debug/net6.0/Baitaptest.deps.json
+/Users/quocnguyen/Workspace/C#/Baitaptest/bin/Debug/net6.0/Baitaptest.runtimeconfig.json
+/Users/quocnguyen/Workspace/C#/Baitaptest/bin/Debug/net6.0/Baitaptest.dll
+/Users/quocnguyen/Workspace/C#/Baitaptest/bin/Debug/net6.0/Baitaptest.pdb
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.csproj.AssemblyReference.cache
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.AssemblyInfoInputs.cache
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.AssemblyInfo.cs
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.csproj.CoreCompileInputs.cache
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.dll
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/refint/Baitaptest.dll
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.pdb
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/Baitaptest.genruntimeconfig.cache
+/Users/quocnguyen/Workspace/C#/Baitaptest/obj/Debug/net6.0/ref/Baitaptest.dll

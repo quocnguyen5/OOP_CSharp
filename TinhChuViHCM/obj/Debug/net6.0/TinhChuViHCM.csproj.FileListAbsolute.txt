@@ -1,0 +1,15 @@
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.csproj.AssemblyReference.cache
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.AssemblyInfoInputs.cache
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.AssemblyInfo.cs
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.csproj.CoreCompileInputs.cache
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/bin/Debug/net6.0/TinhChuViHCM
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/bin/Debug/net6.0/TinhChuViHCM.deps.json
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/bin/Debug/net6.0/TinhChuViHCM.runtimeconfig.json
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/bin/Debug/net6.0/TinhChuViHCM.dll
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/bin/Debug/net6.0/TinhChuViHCM.pdb
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.dll
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/refint/TinhChuViHCM.dll
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.pdb
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/TinhChuViHCM.genruntimeconfig.cache
+/Users/quocnguyen/Workspace/C#/TinhChuViHCM/obj/Debug/net6.0/ref/TinhChuViHCM.dll
